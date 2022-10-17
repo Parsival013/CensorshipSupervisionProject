@@ -25,23 +25,23 @@ namespace CensorshipSupervisionLibrary
             {
                 
                 case "редиска":
-                       return Regex.Replace(textString, "редиска", "***", RegexOptions.IgnoreCase);//Именительный падеж
+                       return Regex.Replace(textString, "редиска", "***");//Именительный падеж
                 case "редисочка":
-                    return Regex.Replace(textString, "редисочка", "***", RegexOptions.IgnoreCase);
+                    return Regex.Replace(textString, "редисочка", "***");
                 case "редиски":
-                    return Regex.Replace(textString, "редиски", "***", RegexOptions.IgnoreCase);//Родительный падеж
+                    return Regex.Replace(textString, "редиски", "***");//Родительный падеж
                 case "редиске":
-                    return Regex.Replace(textString, "редиске", "***", RegexOptions.IgnoreCase);//Дательный падеж
+                    return Regex.Replace(textString, "редиске", "***");//Дательный падеж
                 case "редиску":
-                    return Regex.Replace(textString, "редиску", "***", RegexOptions.IgnoreCase);//Винительный падеж
+                    return Regex.Replace(textString, "редиску", "***");//Винительный падеж
                 case "редиской":
-                    return Regex.Replace(textString, "редиской", "***", RegexOptions.IgnoreCase);//Творительный падеж
+                    return Regex.Replace(textString, "редиской", "***");//Творительный падеж
                 case "rediska":
-                    return Regex.Replace(textString, "rediska", "***", RegexOptions.IgnoreCase);
+                    return Regex.Replace(textString, "rediska", "***");
                 case "РЕДИСКА":
-                    return Regex.Replace(textString, "РЕДИСКА", "***", RegexOptions.IgnoreCase);
+                    return Regex.Replace(textString, "РЕДИСКА", "***");
                 case "Редиска":
-                    return Regex.Replace(textString, "Редиска", "***", RegexOptions.IgnoreCase);
+                    return Regex.Replace(textString, "Редиска", "***");
                 default:
                     if (textString == string.Empty)
                 throw new ArgumentNullException("Поле не заполнено! Заполните поле!");

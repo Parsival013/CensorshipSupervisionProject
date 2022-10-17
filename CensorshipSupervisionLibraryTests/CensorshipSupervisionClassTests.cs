@@ -155,5 +155,6 @@ namespace CensorshipSupervisionLibraryTests
             //Assert
             Assert.AreEqual(excepted, actual);
         }
-      
+
+    }
 }
