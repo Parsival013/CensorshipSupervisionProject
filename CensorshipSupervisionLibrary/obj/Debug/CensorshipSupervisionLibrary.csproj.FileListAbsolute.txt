@@ -1,0 +1,6 @@
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\CensorshipSupervisionLibrary\CensorshipSupervisionLibrary\bin\Debug\CensorshipSupervisionLibrary.dll
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\CensorshipSupervisionLibrary\CensorshipSupervisionLibrary\bin\Debug\CensorshipSupervisionLibrary.pdb
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\CensorshipSupervisionLibrary\CensorshipSupervisionLibrary\obj\Debug\CensorshipSupervisionLibrary.csproj.AssemblyReference.cache
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\CensorshipSupervisionLibrary\CensorshipSupervisionLibrary\obj\Debug\CensorshipSupervisionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\CensorshipSupervisionLibrary\CensorshipSupervisionLibrary\obj\Debug\CensorshipSupervisionLibrary.dll
+C:\Users\79961\Pictures\Saved Pictures\тестирование ИС\CensorshipSupervisionLibrary\CensorshipSupervisionLibrary\obj\Debug\CensorshipSupervisionLibrary.pdb
